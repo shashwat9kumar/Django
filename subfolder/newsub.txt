@@ -1,2 +1,2 @@
-This is a text file in subfolder
+This is a text file in subfolder inside newfolder
 
